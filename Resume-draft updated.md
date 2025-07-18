@@ -51,7 +51,7 @@
     
 - Led discussions connecting the film’s narrative with concepts from Plato’s cave allegory, Sophoclean tragedy, and political myth.
 ## Service Experience
-**07.2025 Developer – Crohn’s Disease Diet Tracking App
+**07.2025 Developer – Crohn’s Disease Diet Tracking App**
 - Designed and developed a mobile app to help Crohn’s disease patients track dietary intake, symptoms, and health metrics
 - Implemented features including meal logging, symptom journaling, medication reminders, and data visualization
 - Focused on user-friendly UI/UX to support long-term disease self-management
