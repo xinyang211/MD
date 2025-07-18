@@ -22,7 +22,7 @@
 - Selected among top entries from international high school students for analytical rigor and interdisciplinary insight.
 
 ## performing arts honors
-**06.2017 Chinese Dance - Grade 8 Certification
+**06.2017 Chinese Dance - Grade 8 Certification**
 
 ## Academic activities
 **07.2024 CUHK Summer Research Assistant**
